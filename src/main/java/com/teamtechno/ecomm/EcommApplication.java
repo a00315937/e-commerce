@@ -9,7 +9,7 @@ public class EcommApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EcommApplication.class, args);
-		System.out.println("E-commerce");
+		System.out.println("Started E-Shopping Cart");
 	}
 	
 }
