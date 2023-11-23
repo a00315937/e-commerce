@@ -12,7 +12,7 @@ import com.mysql.cj.protocol.Resultset;
 public class AdminController {
 
 	int adminlogcheck = 0;
-	String usernameforclass = "";
+	public String usernameforclass = "";
 
 	@RequestMapping(value = { "/", "/logout" })
 	public String returnIndex() {
