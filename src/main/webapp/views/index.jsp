@@ -34,7 +34,7 @@
             <ul class="navbar-nav mr-auto"></ul>
             <ul class="navbar-nav">
                 <li class="nav-item active">
-                    <a class="nav-link" th:href="@{/}" href="#">Home</a>
+                    <a class="nav-link" th:href=index" href="index">Home</a>
                 </li>
                  <li class="nav-item active">
                     <a class="nav-link" href="profileDisplay" >Profile</a>
@@ -391,7 +391,7 @@ body,html{width:100%;height:100%;}
                                 </a>
                                 <div class="card-content">
                                     <h4 class="card-title">
-                                        Best Deal's
+                                        Best deals
                                     </h4>
                                     <p class="">
                                        Proceed to checkout
