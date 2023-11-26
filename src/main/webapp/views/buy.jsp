@@ -3,14 +3,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="ISO-8859-1">
+<meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<body>
 
+<body>
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+				<ul class="navbar-nav mr-auto"></ul>
+				<ul class="navbar-nav">
+					<a class="nav-link" href="/index">Home</a>&nbsp;&nbsp; 
+					<a class="nav-link" href="/logout">Logout</a>					
+				</ul>
+			</div>
 
 					
-<div class="body-text">Write your name in the right fields. Also write your imaginary card number. By clicking CCV field card will turn.</div>
+<div class="body-text">Please enter your card details.</div>
 
   <form>
     <div class="form-container">
